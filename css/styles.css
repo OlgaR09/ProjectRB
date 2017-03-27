@@ -828,6 +828,7 @@ address {
 		float: none;
 		margin: 0;
 		margin-bottom: 10px;
+		margin-right: 10px;
 	}
 	.delivery, .phone {
 		display: inline-block;
